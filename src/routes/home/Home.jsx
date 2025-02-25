@@ -1,5 +1,3 @@
-import React from "react";
-import downloadIcon from "../../images/download_icon.svg";
 import githubLogo from "../../images/my_github.svg";
 import instagramLogo from "../../images/my_instagram.svg";
 import linkedinLogo from "../../images/my_linkedin.svg";
@@ -18,7 +16,7 @@ const Home = () => {
         </div>
         <div className="home-info animate__animated animate__fadeInDown">
           <p className="home-text">
-            I'm a frontend developer with passion for learning and creating
+            I'm a full-stack developer with passion for learning and creating
           </p>
         </div>
       </div>
